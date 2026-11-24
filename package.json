@@ -11,13 +11,13 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.12",
-    "astro": "^7.4.2",
-    "gsap": "^3.15.0",
-    "tailwindcss": "^4.3.3",
+    "astro": "^7.4.13",
+    "gsap": "^3.15.1",
+    "tailwindcss": "^4.3.5",
     "typescript": "^6.0.3"
   },
   "devDependencies": {
-    "@tailwindcss/vite": "^4.3.3",
+    "@tailwindcss/vite": "^4.3.5",
     "esbuild": "^0.28.2"
   }
 }
